@@ -9,5 +9,5 @@ Note: The rotation of the matrix or the elements can get a bit wacky and distort
 
 Here are a few things you can still do:
 
-- Create a shape (cube/pyramid) and set its size and position and rotation
+- Create a shape (cube/pyramid) and set its size, position and rotation
 - Rotate the X Y and Z "virtual" axises of the matrix.
