@@ -199,7 +199,7 @@ function ShapeTemplate(shape, width, heigth, depth, x, y, z, rotateX, rotateY, r
 
 ///////////////////////////////////////////////
 
-var character_head = new ShapeTemplate(
+var mycube = new ShapeTemplate(
   "cube",
   // Size (X, Y, Z) 
   100, 
